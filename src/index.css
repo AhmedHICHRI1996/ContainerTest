@@ -1,0 +1,17 @@
+.App-header {
+  background-color: #ed752a;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  }
+  
+  .App-content {
+  padding: 20px;
+  text-align: left;
+  }
+  
+  img {
+  border-radius: 50%;
+  margin-bottom: 5px;
+  max-height: 80px;
+  }
