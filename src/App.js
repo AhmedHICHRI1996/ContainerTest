@@ -6,10 +6,10 @@ const user = {
 name: "Ahmed",
 jobTitle: "Cloud practitioner",
 about:
-"Passionate about web development and creating awesome user experiences.",
-email: "alaa.odc@example.com",
+"Passionate about cloud and system administration.",
+email: "ahmed@example.com",
 phone: "+123 456 7890",
-skills: ["HTML", "CSS", "JavaScript", "React"],
+skills: ["Linux", "Python", "Networking", "AWS"],
 photoURL:
 "https://media.licdn.com/dms/image/D4D03AQGmcN0FnlOpWg/profile-displayphoto-shrink_200_200/0/1706200643252?e=2147483647&v=beta&t=0ZoVL0QdJKPngSMjhQnt-tAwpvKp-H1mRpcjUqvOCHI", // Replace with your photo URL
 };
